@@ -1,6 +1,5 @@
 # About Me:
-I love learning about and building things. My goal is to be as 'cracked' as possible and contribute to the global tech community. 
-I am currently specializing in Systems Software Engineering and AI Research.<br><br>
+I love learning about and building things.
 
 
 # 💻 Tech Stack:
